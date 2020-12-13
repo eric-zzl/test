@@ -1,2 +1,6 @@
-This is some random text.
-this is some new text.
+#include <iostream>
+
+int main(){
+	std::cout << "hello world!" << std::endl;
+	return 0;
+}
